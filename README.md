@@ -11,7 +11,7 @@ Component | Amount | Mfg | Part Number | Comment
 Engine Oil | 8Qt | Mobile 1 | xxxx | Sythetic 5w40 European Blend
 Oil Filter | 1 | Mobile 1 | xxxx | Hand Tight <br> Filter wrench available
 Automatic Transmission Fluid | XQt | XXXX | XXXXXX | XXXXX
-Automatic Transmission Fluid | XQt | XXXX | XXXXXX | XXXXX
+Air Filter | 2 | XXXX | XXXXXX | XXXXX
 
 ### Maintenance Record
 
