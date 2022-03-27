@@ -3,5 +3,26 @@
 Wiki on maintenance
 
 See wiki for documetation on maintenance
+ 
+## C32 AMG
+### Fluids Recommendation:
+Component | Amount | Mfg | Part Number | Comment
+--- | --- | --- | --- | ---
+Engine Oil | 8Qt | Mobile 1 | xxxx | Sythetic 5w40 European Blend
+Oil Filter | 1 | Mobile 1 | xxxx | Hand Tight <br> Filter wrench available
+Automatic Transmission Fluid | XQt | XXXX | XXXXXX | XXXXX
+Automatic Transmission Fluid | XQt | XXXX | XXXXXX | XXXXX
+
+### Maintenance Record
+
+
+
+Service | Mileage | Date | Comment
+--- | --- | --- | ---
+Oil Change | xxxx | March 26, 2022 | * Prior to oil change, oil was low 1.5Qt <br> * 7Qt Valvoline Sytnthetic 5w40 European Blend <br> * MB Filter <br> 
+
+
+
+
 
 
