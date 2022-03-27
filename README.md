@@ -15,11 +15,9 @@ Automatic Transmission Fluid | XQt | XXXX | XXXXXX | XXXXX
 
 ### Maintenance Record
 
-
-
 Service | Mileage | Date | Comment
 --- | --- | --- | ---
-Oil Change | xxxx | March 26, 2022 | * Prior to oil change, oil was low 1.5Qt <br> * 7Qt Valvoline Sytnthetic 5w40 European Blend <br> * MB Filter <br> 
+Oil Change | 131449 | March 26, 2022 | * Prior to oil change, oil was low 1.5Qt <br> * 7Qt Valvoline Sytnthetic 5w40 European Blend <br> * MB Filter <br> 
 
 
 
