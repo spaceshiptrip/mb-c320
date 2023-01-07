@@ -21,6 +21,10 @@ Oil Change | 131449 | March 26, 2022 | * Prior to oil change, oil was low 1.5Qt 
 
 
 
+### Torque Specs
 
-
+Part | n m | ft lbs | Comments
+--- | --- | --- | --- 
+Supercharger Pully Bolt | 20 nm |  14.75 ft lbs | Be careful because it can break; Add blue thread lock
+Oil Filter Housing Bolt | 70 nm | 50 ft lbs | Really tough to line up, make sure it is able to go in hand tight
 
