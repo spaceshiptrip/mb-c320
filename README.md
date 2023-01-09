@@ -18,6 +18,9 @@ Air Filter | 2 | XXXX | XXXXXX | XXXXX
 Service | Mileage | Date | Comment
 --- | --- | --- | ---
 Oil Change | 131449 | March 26, 2022 | * Prior to oil change, oil was low 1.5Qt <br> * 7Qt Valvoline Sytnthetic 5w40 European Blend <br> * MB Filter <br> 
+Oil Change | 135xxx | August 2022 | * Continually topping off due to oil leak <br> * 7Qt Valvoline Sytnthetic 5w40 European Blend <br> * MB Filter <br> 
+Oil Change | 138784 | January 7, 2023 | * Fixed oil leak by replacing gaskets <br> * 8.5Qt Mobile 1 Sytnthetic 0w30 European Blend <br> * MB Filter <br>
+Power Steering Flush | 138784 | January 7, 2023 | * HS 11s Power steering fluid <br>
 
 
 
